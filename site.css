@@ -1,14 +1,21 @@
 h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(14, 170, 40);
+    font: 14px;
+
+}
+body {
+    nav-left: 40px;
 }
 p {
     background-color: rgb(200, 200, 226);
+    font: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .test {
-    background-color: rgb(190, 190, 216);
+    background-color: rgb(197, 216, 190);
     font:bold;
 }
 div {
-    min-height: 1000px;
+    min-height: 100px;
 }
