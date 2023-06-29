@@ -1,0 +1,14 @@
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(14, 170, 40);
+}
+p {
+    background-color: rgb(200, 200, 226);
+}
+.test {
+    background-color: rgb(190, 190, 216);
+    font:bold;
+}
+div {
+    min-height: 1000px;
+}
