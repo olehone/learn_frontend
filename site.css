@@ -16,6 +16,19 @@ p {
     background-color: rgb(197, 216, 190);
     font:bold;
 }
-div {
-    min-height: 100px;
+footer {
+    background-attachment: fixed;
+}
+.chooser {
+    background-color: #113492;
+}
+.choose {
+    margin: auto;
+    flex-direction: row;
+}
+img {
+    
+box-shadow: 6px 11px 31px 14px rgba(23, 62, 217, 0.26), -31px -33px 48px 1px rgba(217, 23, 81, 0.39), 44px -24px 48px 1px rgba(23, 217, 81, 0.39);
+margin: 30px;
+background-attachment: fixed;
 }
